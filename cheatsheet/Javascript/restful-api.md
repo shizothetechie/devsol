@@ -239,7 +239,8 @@ Now go ahead and **extend your API** with more features! 🚀🔥
 ⭐ **Enjoyed this tutorial?** Star it on GitHub!  
 
 ---
-
+🥵 [Click Here for RestFul Api Example](https://github.com/IRON-M4N/express-api)
+---
 **🔗 Follow me for more dev content!** 
 
 🎉 [Follow](https://github.com/shizothetechie) to receive all updates
