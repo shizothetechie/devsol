@@ -248,4 +248,4 @@ Now go ahead and **extend your API** with more features! 🚀🔥
 
 ---
 
-**!Crafted by Shizo Techie ❤️ written by Ai!** 🤖
+**!Crafted by Shizo Techie written by Ai!** 🤖
